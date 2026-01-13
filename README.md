@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**himel2010/himel2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about building practical web applications and solving algorithmic problems.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages**: Python, JavaScript, TypeScript
+- **Web Development**: Next.js, React, Node.js
+- **Databases**: PostgreSQL, Supabase
+- **Tools**: Git, VS Code, Linux
+- **Problem Solving**: LeetCode, Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Building full-stack applications with Next.js and PostgreSQL
+- Learning backend development with Python (Flask/FastAPI)
+- Solving data structures and algorithms problems
+
+## 📌 Featured Projects
+### [TA Attendance System](link)
+Full-stack attendance management with real-time updates | Next.js · PostgreSQL · Supabase
+
+### [Project 2 Name](link)
+Brief description | Tech Stack
+
+## 📫 Let's Connect
+- Email: your.email@example.com
+- LinkedIn: [if you have one]
+
+---
+
+💡 Currently exploring backend development and API design
