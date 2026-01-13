@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Himel Khan
 
 Computer Science student who loves building things from the ground up and solving complex problems.
 
