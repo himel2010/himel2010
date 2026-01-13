@@ -26,8 +26,8 @@ Computer Science student who loves building things from the ground up and solvin
 ### [Student Tutor Attendance System](https://github.com/himel2010/st-attendance)
 Automated attendance tracking with Google Sheets API integration | Next.js • TypeScript • PostgreSQL • Ingest • OAuth 2.0
 
-### [Medical Image Segmentation](link)
-U-Net with attention gates for image segmentation and classification | Python • Pytorch • Computer Vision
+### [Medical Image Segmentation](https://github.com/himel2010/ml_project_unet_aunet)
+U-Net with attention gates for image segmentation and classification | Python • Pytorch 
 
 ### [Moodly](https://github.com/himel2010/moodly)
 Mood based media hub with live TV and radio | Next.js • TypeScript • PostgreSQL • Ingest
