@@ -1,49 +1,11 @@
-# Hi, I'm Himel Khan
+# Himel Khan
 
-Computer Science student who loves building things from the ground up and solving complex problems.
+I'm a full-stack software engineer building web applications with TypeScript and Python.
 
-## 🛠️ Technical Skills
+## Featured project
 
-**Languages**: Python • JavaScript • TypeScript • Java • C
+### [Question Bank](https://github.com/himel2010/question-bank)
 
-**Web Development**: Next.js • React • Django • Node.js • Tailwind CSS
+A discussion platform for university courses with threaded replies, accepted answers, voting, and live notifications. Study tools support practice and planning.
 
-**Databases**: PostgreSQL • MySQL • Supabase
-
-**ML & Data Science**: TensorFlow • PyTorch • NumPy • Pandas 
-
-**Tools & Platforms**: Git • VS Code • Postman • Vercel • Linux
-
-## 💻 What I'm Working On
-
-- Building full-stack web applications with Next.js and PostgreSQL
-- Teaching Data Structures in Java as a student instructor
-- Solving problems on LeetCode (60+ problems)
-- Exploring computer vision and deep learning architectures
-
-## 📌 Featured Projects
-
-### [Student Tutor Attendance System](https://github.com/himel2010/st-attendance)
-Automated attendance tracking with Google Sheets API integration | Next.js • TypeScript • PostgreSQL • Ingest • OAuth 2.0
-
-### [Medical Image Segmentation](https://github.com/himel2010/ml_project_unet_aunet)
-U-Net with attention gates for image segmentation and classification | Python • Pytorch 
-
-### [Moodly](https://github.com/himel2010/moodly)
-Mood based media hub with live TV and radio | Next.js • TypeScript • PostgreSQL • Ingest
-
-## 🏆 Experience
-
-**Student Tutor** - Data Structures - CSE220 (Java) | [BRAC University] | 2024-Present
-- Teaching core CS concepts to undergraduate students
-- Creating learning resources and maintaining course repositories
-
-**Problem Solver** - LeetCode: 60 problems solved | Competitive programming participant
-
-## 📫 Let's Connect
-
-- Email: himel.khan6@gmai.com
-
----
-
-💡 I enjoy taking ideas from concept to deployment—whether it's a web app, an ML model, or teaching others how to code
+Built with a React frontend and a separate Django REST API, with PostgreSQL, Celery, and Redis.
